@@ -1,6 +1,6 @@
 # Flight-Controller-Omo-R1
 
-A high-performance, custom-designed flight controller made for rockets, atmospheric data logging, and lightweight payload control.
+A Flight Controller, made for rockets, atmospheric data logging and servo control.
 
 ## What can it do
 
