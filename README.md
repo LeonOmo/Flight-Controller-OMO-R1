@@ -23,7 +23,7 @@ a flightcontroller made for rockets,
 
 ## Schematic
 
-<img width="983" height="633" alt="image" src="https://github.com/user-attachments/assets/e367f9ad-5d39-4150-9d97-ca80045a1b8e" />
+<img width="983" height="680" alt="image" src="https://github.com/user-attachments/assets/e367f9ad-5d39-4150-9d97-ca80045a1b8e" />
 
 ## PCB
 
