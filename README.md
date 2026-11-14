@@ -1,4 +1,4 @@
-# Flight-Controller-Omo-R1
+# Flight-Controller-FC-R1
 
 A Flight Controller, made for rockets, atmospheric data logging and servo control.
 
@@ -42,15 +42,15 @@ Learned rotated PCB layout and Zone power delivery in KiCAD.
 
 ## PCB
 
-<img width="597" height="547" alt="image" src="https://github.com/user-attachments/assets/a393a4bc-ba80-489e-8fa1-b77e6037512b" />
+<img width="647" height="579" alt="image" src="https://github.com/user-attachments/assets/084f9f09-4e3e-4958-98c8-f6d83fc6f673" />
 
-<img width="625" height="593" alt="image" src="https://github.com/user-attachments/assets/1ba1605d-0ad4-4338-ac2d-f5da28f5921f" />
+<img width="612" height="575" alt="image" src="https://github.com/user-attachments/assets/a0f84569-16c8-4650-b9b8-bd21db2388aa" />
 
 ## Extra
 
 Credits:
 - NotARoomba (Guide)
-- Omocat (Silkscreen)
+- Omocat (Silkscreen pixelarts only on my PCB not in the files)
 
 ## Bonus
 
